@@ -1,1 +1,0 @@
-This portlet lists flights departed today.
